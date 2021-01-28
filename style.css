@@ -49,6 +49,7 @@ a.active,a:hover{
     line-height: 80px;
     margin-right: 40px;
     cursor: pointer;
+     display: none;
 }
 #check{
     display: none;
@@ -99,8 +100,5 @@ a.active,a:hover{
     }
 
 }
-section{
-    background: url(sky.jpg);
-    background-size: cover;
-    height: calc(100vh -80px);
-}
+
+
